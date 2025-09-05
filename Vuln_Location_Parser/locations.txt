@@ -1,0 +1,706 @@
+URL: https://www.alk.com.tw/APP_PROG/Admin/Org_Search.aspx
+URL: https://www.alk.com.tw/APP_PROG/Admin/sys_search.aspx
+"URL: https://www.alk.com.tw/APP_PROG/Admin/user_search.aspx
+URL: https://www.alk.com.tw/APP_PROG/Admin/user_search.aspx"
+URL: https://uat-api.biolifeplasma.com/donors/search-active-donors
+URL: https://www.e-medicalinfo.com/prescription_registration/prescription
+URL: https://www.e-medicalinfo.com/delivery/pharmacy
+URL: https://takeda-test.invoicetrack.com/MasterData/Asset/GetList?_=1729701261923&jsonFilters=[{"name":"SystemId","type":"text","op":"='1'+or+substring((user),1,1)!='1'+or+SystemId=","value":"sss","from":null,"to":null,"decimals":0,"isNullableFilter":false},{"name":"Deleted","type":"checkbox","op":"=","value":false,"from":null,"to":null,"decimals":0,"isNullableFilter":true}]&jsonPagingData=%7B%22orderBy%22%3A%22Id%22%2C%22orderDesc%22%3Afalse%2C%22page%22%3A0%2C%22pageSize%22%3A25%2C%22total%22%3A0%2C%22showPlaceholder%22%3Afalse%2C%22totalPages%22%3A0%2C%22totalText%22%3A%22+%2F+0%22%2C%22showingText%22%3A%22+No+results!%22%7D
+URL: https://takeda-test.invoicetrack.com/IVT/TaskList/GetList.mvc
+URL: https://takeda-test.invoicetrack.com/Mobile/Mobile/GetTaskList
+URL: https://takeda-test.invoicetrack.com/MasterData/BankData/GetList/bank
+URL: https://www.e-medicalinfo.com/search_my_list/search_ajax?draw=1&columns%5B0%5D%5Bdata%5D=con&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=vyv&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=user_name&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=user_kana_name&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=facility_name&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=address&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=tel_no&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=2&order%5B0%5D%5Bdir%5D=asc&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&deleteList%5B0%5D%5BdoctorUserId%5D=U0000000362&deleteList%5B0%5D%5BfacilityCode%5D=F0000267228&_=1720803521829
+URL: https://www.e-medicalinfo.com/search_my_list/search_ajax
+URL: https://www.e-medicalinfo.com/facility/all
+URL: https://www.e-medicalinfo.com/search_doctor/search
+"URL: https://edi.myf2f.pl/admin/chat/send-file
+App Location: Stored XSS https://edi.myf2f.pl/admin/chat/send-file
+App Location: Unrestricted file upload https://edi.myf2f.pl/admin/chat/send-file"
+URL: https://edi.myf2f.pl/admin/account/edit
+URL: https://edi.myf2f.pl/api/user/update
+URL: https://edi.myf2f.pl/api/card/addResearch
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/addComments.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/showProps.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/getlist.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/dictionaries.jsp
+URL: https://uat-api.biolifeplasma.com/centers/search-all
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.0a8879ad6dde21f31f45.js
+URL: https://pen.uat.seqster.com/dna/genes/
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/edc/00ee5f77-bca5-4572-b2e9-9b3763dcc587/dashboardMetrics
+"URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/participants/edc-data-dashboard
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/edc/00ee5f77-bca5-4572-b2e9-9b3763dcc587/dashboardMetrics"
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-donor-sign-sw-view-dt.json
+URL: https://mosquito.mosquitoplazma.hu/aud-log-dt.json
+"URL: https://mosquito.mosquitoplazma.hu/vpc-app-settings-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-attachment-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-attachment-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-sequences-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-sequences-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-worktime-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-worktime-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-permission-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-permission-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-role-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-role-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-hq-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-hq-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-cent-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-cent-form.html"
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-donation-view-dt.json
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-machine-t-c-sw-view-dt.json
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-exam-t-don-t-sw-view-dt.json
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-perm-sw-view-dt.json
+"URL: https://www.alk.com.tw/WebServiceCheck.asmx
+URL: https://www.alk.com.tw/index.html"
+URL: https://www.alk.com.tw/APP_PROG/Admin/Role_Search.aspx
+"URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/companies
+URL: https://us-demo-hema.mypkfit.com/pkc/#/product-configuration
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/{{userID}}/security-questions"
+"URL: https://demo-patient-app.mypkfit.com/documents/tmp/remove_files.sh
+File: ./myPKFiT.app/www/build/main.js
+File: ./assets/www/build/main.js
+URL: https://package-repo.mypkfit.com/artifactory/api/system/configuration"
+URL: https://github.com/
+"App Location: resources.arsc
+App Location: /res/values/strings.xml"
+"URL: https://prod.sekaisites.com/_next/static/chunks/pages/_app-e5792605ea107a8b7942.js
+URL: https://prod-takexperiences.vercel.app/_next/static/chunks/pages/_app-e5792605ea107a8b7942.js"
+IP: 172.31.23.13:3050 (TCP)
+URL: https://takeda-test.invoicetrack.com/MasterData/VendorTag/GetList
+URL: https://takeda-mig.dotmatics.net/browser/api/chemselector/structures/cart
+URL: https://takeda-test.invoicetrack.com/MasterData/Tag/download
+URL: https://takeda-test.invoicetrack.com/MasterData/PaymentData/download
+URL: https://t516yg4ys7.execute-api.us-east-1.amazonaws.com/test/plasmachain-inventory-get-quality-top-center
+URL: https://api-us-np.takeda.com/dev/pdt-donorchannels-api/v1/donor/profile
+URL: https://edi.myf2f.pl/admin/account/postPassword
+"URL: https://adhd-vcdcs.jp/material/download
+URL: https://adhd-vcdcs.jp/top/download"
+URL: https://demo-patient-app.mypkfit.com/pkc/rest/pkc-users-mma-2-1/users/mobile-user/account
+URL: https://www-stg.mcm.em1lab.com/updatefirst/form/confirm
+URL: https://takeda-test.invoicetrack.com/ivt/usermanagement/delete.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/notification/save.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/emailTemplate/saveTemplate.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/UserInformation/AjaxSave.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/scope/save.mvc
+"URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-view.html"
+"URL: https://edi.myf2f.pl/admin/patient/add
+URL: https://edi.myf2f.pl/admin/report/create-report"
+URL: https://takeda-test.invoicetrack.com/MasterData/TaxIndicators/save
+URL: https://edi.myf2f.pl/admin/patient/addResearch
+"URL: https://test-tms-revamp.pantheonsite.io/user_register_ui/regist
+URL: https://test-tms-revamp.pantheonsite.io/HCP/Certification"
+URL: https://edi.myf2f.pl/admin/account/edit
+URL: https://edi.myf2f.pl/admin/knowledge/posts/add
+URL: https://www.e-medicalinfo.com/unregistered_prescription/edit_complete
+"URL: https://www.e-medicalinfo.com/change_doctor/complete
+URL: https://www.e-medicalinfo.com/change_doctor/confirm"
+URL: https://www.e-medicalinfo.com/prescription_registration/edit_complete
+URL: https://sana-app.cz/mobileweb/EditUcetPage.aspx
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura?r=25&aura.Component.reportFailedAction=1&other.OP_User.eDiaryRecord=1
+URL: https://geneticsopinions.org/Calls/UploadImage?FileName=payload%22%20onx=()%20onmouseover=(confirm)()%20%22.pdf&Description=&ChannelName=&GroupID=41b5b7e2-5836-444b-b5ae-54ac4297f017
+"URL: https://usprd.eft.takeda.com/$file_name
+Other: My Files -> Upload"
+"URL: https://takeda-mig.dotmatics.net/browser/query/addAnnotation.jsp
+URL: https://takeda-mig.dotmatics.net/browser/custom/listManager.jsp"
+URL: https://www.e-medicalinfo.com/wholesale/downloadTemplate
+"IP: 172.31.119.13:445 (TCP)
+IP: 172.31.103.13:445 (TCP)
+IP: 172.31.95.13:445 (TCP)
+IP: 172.31.39.13:445 (TCP)
+IP: 172.31.111.13:445 (TCP)"
+URL: https://www.e-medicalinfo.com//top/view
+URL: https://www.e-medicalinfo.com/static_privacy_policy/download
+URL: https://www.e-medicalinfo.com/el_list/get_el_content_for_mv
+"URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-patients-3-1/patients/clinic/233/patient/7546?mobileData=true
+URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-advate-3-1/simulation/clinic/233/patient/7546/assessment/4892/simulations
+URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-assessments-3-1//assessments/clinic/233/patient/7546/assessment/4892
+URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-advate-3-1/pdf/clinic/233/patient/7546/simulation/3785
+URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-advate-3-1/csv/clinic/233/patient/7546/simulation/3785"
+"URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/company-admin
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/clinic-admin
+App Location: ""role"" parameter
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/clinic-user"
+Other: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-patients-3-1/patients/clinic/232/patient/7562?mobileData=true
+Other: See the provided list
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.2b82bdc4207789e6b894.js
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.2b82bdc4207789e6b894.js
+"URL: https://us-dev3-patient-app.mypkfit.com/pkc/rest/pkc-pdf-1-1/
+URL: https://us-dev3-patient-app.mypkfit.com/pkc/rest/pkc-pdf-1-1/export"
+URL: https://edi.myf2f.pl/admin/account/edit
+URL: https://pdt-dep-enlyt-api-uat.herokuapp.com/v1/graphql
+"URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura?r=xx&other.OP_User.eDiaryRecord=1
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura?r=xx&aura.Component.reportFailedAction=1&other.OP_User.readForEntries=1"
+"URL: https://scfull-onepath.cs198.force.com/s/detail/*
+URL: https://scfull-onepath.cs198.force.com/s/detail/a1S05000000Ao7e
+URL: https://scfull-onepath.cs198.force.com/s/detail/a1R050000009E9v
+URL: https://scfull-onepath.cs198.force.com/s/detail/001050000095JXMAA2"
+"URL: https://takeda.platform.threadresearch.com/#/studies/<id>/launch
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/<id>/appdescription"
+"URL: https://takeda.platform.threadresearch.com/#/studies/<id>/customize/engagement-content
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/<studyid>/learnmore/sections/<id>"
+"URL: https://takeda.platform.threadresearch.com/#/studies/<id>/customize/onboarding
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/<studyid>/welcomecontent/<id>"
+"URL: https://prodalb-v2.platform.threadresearch.com/api/v1/surveymanagement/surveys?studyId=<ID>
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/surveymanagement/surveys/<ID>/questions/<ID>?studyId=<ID>"
+"URL: https://us-east-1-prod-web.platform.threadresearch.com/api/v1/participant-web/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/web/globalelements
+URL: https://us-east-1-prod-web.platform.threadresearch.com/api/v1/participant-web/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/web/homepage
+URL: https://us-east-1-prod-web.platform.threadresearch.com/api/v1/participant-web/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/web/eligibility
+URL: https://us-east-1-prod-web.platform.threadresearch.com/api/v1/participant-web/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/web/registration"
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveicons.jsp
+"URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/research-team/
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/users?type=admin&associated=true
+URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/research-team/study-team
+URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/research-team/research-site/
+URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/research-team/research-site/02d9df31-2aab-426d-8e76-0719beff3522/view
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/sites/02d9df31-2aab-426d-8e76-0719beff3522
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/sites/02d9df31-2aab-426d-8e76-0719beff3522/siteteammembers
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/sites/siteteamusers
+URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/research-team/research-site/02d9df31-2aab-426d-8e76-0719beff3522/add-research-site-documents
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/sites/02d9df31-2aab-426d-8e76-0719beff3522/documents
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/document/89a678a4-dd57-4715-83fe-de013481ec17/status
+URL: https://takeda.platform.threadresearch.com/#/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/participants/configure-document/89a678a4-dd57-4715-83fe-de013481ec17?siteId=02d9df31-2aab-426d-8e76-0719beff3522
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/sites/02d9df31-2aab-426d-8e76-0719beff3522/document/89a678a4-dd57-4715-83fe-de013481ec17/configure
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/document"
+URL: https://uat-api.takedaconnect.com/materialOrder
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/studies.do
+"URL: https://aggregators-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/search
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/medications/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/deferrals/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/imagePath/<donorID>
+URL: https://edq-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/edq/review/eligibility/<donorID>
+URL: https://aggregators-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/lock
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/Defer
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/medications/<donorID>
+URL: https://aggregators-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/needs/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/MailAddress/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/specialneeds/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/donor/lockstatus/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/Search
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/Unlock/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/demographics/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/<donorID>
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/Validate/<donorID>
+URL: https://aggregators-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Donor/identify"
+"URL: https://takeda-mig.dotmatics.net/browser/admin/saveicons.jsp
+URL: https://takeda-mig.dotmatics.net/browser/admin/settings.jsp?tab=icons"
+URL: https://takeda-test.invoicetrack.com/IVT/DecisionManager/CreateOrEditRule.mvc
+"URL: https://edi.myf2f.pl/admin/patient/card/card/309
+URL: https://edi.myf2f.pl/admin/patient/card/current/309
+URL: https://edi.myf2f.pl/admin/patient/card/harmonogram/309
+URL: https://edi.myf2f.pl/admin/patient/card/pump/309
+URL: https://edi.myf2f.pl/admin/patient/card/notices/309
+URL: https://edi.myf2f.pl/admin/patient/infusion/309
+URL: https://edi.myf2f.pl/admin/patient/addSickness
+URL: https://edi.myf2f.pl/admin/patient/postCard
+URL: https://edi.myf2f.pl/admin/patient/addMedicament
+URL: https://edi.myf2f.pl/admin/patient/card/saveCardParam
+URL: https://edi.myf2f.pl/admin/patient/postTreatment
+URL: https://edi.myf2f.pl/admin/patient/current/saveTreatmentParam
+URL: https://edi.myf2f.pl/admin/patient/postSchedule
+URL: https://edi.myf2f.pl/admin/patient/postNotice
+URL: https://edi.myf2f.pl/admin/patient/changeDoctor"
+URL: https://takeda-test.invoicetrack.com/MasterData/ApprovalPolicy/save
+URL: https://edi.myf2f.pl/admin/account/edit
+URL: https://takeda-test.invoicetrack.com/IVT/ImageViewerV2/UploadAttachment.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/Sitemap/EditSitemapNode.mvc
+"URL: https://demo-patient-app.mypkfit.com/pkc/rest/pkc-users-mma-2-1/users/mobile-user/ID
+URL: https://demo-patient-app.mypkfit.com/pkc/rest/pkc-users-mma-2-1/users/mobile-user/ID/change-password"
+URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-advate-3-1/simulation/clinic/<id>/patient/<id>/simulation/save?companyCode=01001&locale=en_US
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/resource/studies/deleteresource
+URL: https://www.e-medicalinfo.com/material/download?
+URL: https://ibdone-design.apps.eu-1c.mendixcloud.com/xas/
+"URL: https://mosquito.mosquitoplazma.hu/vpc-md-cost-profile-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-cost-profile-form.html?id=1"
+URL: https://www.adhd-vcdcs.jp/prescription_registration/edit_complete
+URL: https://takeda-test.invoicetrack.com/IVT/Tasklist/SaveProfile.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/DecisionExplorer2022/UploadRulesJson.mvc
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/sites/31c9c35d-d7bd-4e53-8202-ebf1a966db37/document/1c3afc80-66dd-4cce-b080-dabb550f02ac/configure
+"URL: https://mosquito.mosquitoplazma.hu/vpc-don-donor-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-donor-view.html"
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-ban-criteria-form.html
+"URL: https://geneticsopinions.org/Calls/PutQuestionaireResponseJSON
+URL: https://geneticsopinions.org/Calls/GetQuestionaireResponseJSON"
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-machine-equip-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-res-reservation-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-form.html
+"URL: https://mosquito.mosquitoplazma.hu/vpc-md-doc-template-type-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-doc-template-type-view.html"
+URL: https://edi.myf2f.pl/admin/chat/changeaAvailability
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-blood-donation-form.html
+"URL: https://mosquito.mosquitoplazma.hu/vpc-don-donation-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-donation-view.html"
+"URL: https://mosquito.mosquitoplazma.hu/vpc-don-ban-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-ban-view.html"
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-cash-register-form.html
+"URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/[user-id]/reset-password?isAccountActivation=false
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/forgot-password-data?emailAddress=luffydratest1%40gmail.com"
+"URL: https://3.0.125.222:8443/
+URL: https://3.0.125.222:8443/.//WEB-INF/web.xml"
+URL: https://takeda-mig.dotmatics.net/webservices/
+URL: https://uat-api.biolifeplasma.com/donors/register
+URL: NA
+URL: https://www.alk.com.tw/APP_PROG/Admin/Role_Search.aspx
+URL: https://www.alk.com.tw/APP_PROG/Admin/Menu_Options.aspx
+URL: https://scfull-onepath.cs198.force.com/*/p
+Other: N/A
+"URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura?r=23&ui-chatter-components-aura-components-forceChatter-chatter.SelectMentionDataProvider.getOptions=1
+Other: All areas having comment section/WYSIWYG editor 
+Other: Mention People and Group feature
+URL: https://scfull-onepath.cs198.force.com/s/feed/*
+URL: https://scfull-onepath.cs198.force.com/s/profile/*"
+"URL: https://takeda-mig.dotmatics.net/browser/query/addAnnotation.jsp
+URL: https://takeda-mig.dotmatics.net/browser/query/popAnnotation.jsp?lnum=query_58441&rows=2&cols=30&results=2147483647
+URL: https://takeda-mig.dotmatics.net/browser/query/popAnnotation.jsp?action=delete&lnum=query_58453&rowid=AAAR7VAAHAAAADsAAK&rand=78755983"
+URL: https://takeda-test.invoicetrack.com/IVT/UserInformation/AjaxSave.mvc
+"URL: https://takeda-test.invoicetrack.com/IVT/sharinggroup/index.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/sharinggroup/details.mvc?id=41868
+URL: https://takeda-test.invoicetrack.com/IVT/sharinggroup/create.mvc"
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/1548/security-questions
+URL: https://www.e-medicalinfo.com/delivery/detail
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/main.jsp
+"URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/resource/studies/<id>/createresource
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/resource/studies/editresource?id=<id>"
+"URL: https://takeda.platform.threadresearch.com/#/studies/<studyid>/customize/multieconsent
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/<studyid>/consentprivacy/
+URL: https://prodalb-v2.platform.threadresearch.com/api/v2/studymanagement/studies/<studyid>/consent/<id>/consentdocument
+URL: https://prodalb-v2.platform.threadresearch.com/api/v2/studymanagement/studies/<studyid>/consent/<id>/consentsections/<sectionid>"
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/clinic-admin/
+"URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/3021/change-preferences
+App Location: ""locale"" parameter"
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-ban-form.html?id=*
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura
+"URL: https://scfull-onepath.cs198.force.com/s/recordlist/SHR_NPS_Information_Update_Request__c/
+URL: https://scfull-onepath.cs198.force.com/a1S/x?fcf=00B1S000002qkU3&rpp_sticky=0&rowsperpage=1000"
+"URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-view.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-sys-user-view-dt.json?ajax=true&sEcho=1&iColumns=10&sColumns=%2C%2C%2C%2C%2C%2C%2C%2C%2C&iDisplayStart=0&iDisplayLength=25&mDataProp_0=0&sSearch_0=&bRegex_0=false&bSearchable_0=true&bSortable_0=true&mDataProp_1=1&sSearch_1=&bRegex_1=false&bSearchable_1=true&bSortable_1=true&mDataProp_2=2&sSearch_2=&bRegex_2=false&bSearchable_2=true&bSortable_2=true&mDataProp_3=3&sSearch_3=&bRegex_3=false&bSearchable_3=true&bSortable_3=true&mDataProp_4=4&sSearch_4=&bRegex_4=false&bSearchable_4=true&bSortable_4=true&mDataProp_5=5&sSearch_5=&bRegex_5=false&bSearchable_5=true&bSortable_5=true&mDataProp_6=6&sSearch_6=&bRegex_6=false&bSearchable_6=true&bSortable_6=true&mDataProp_7=7&sSearch_7=&bRegex_7=false&bSearchable_7=true&bSortable_7=true&mDataProp_8=8&sSearch_8=&bRegex_8=false&bSearchable_8=true&bSortable_8=true&mDataProp_9=9&sSearch_9=&bRegex_9=false&bSearchable_9=true&bSortable_9=true&sSearch=&bRegex=false&iSortCol_0=0&sSortDir_0=asc&iSortingCols=1&_=1618829154608"
+URL: https://mosquito.mosquitoplazma.hu/vpc-don-ban-view-dt.json?ajax=true&banStatus=all&sEcho=1&iColumns=17&sColumns=%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C&iDisplayStart=0&iDisplayLength=25&mDataProp_0=0&sSearch_0=&bRegex_0=false&bSearchable_0=true&bSortable_0=true&mDataProp_1=1&sSearch_1=&bRegex_1=false&bSearchable_1=true&bSortable_1=true&mDataProp_2=2&sSearch_2=&bRegex_2=false&bSearchable_2=true&bSortable_2=true&mDataProp_3=3&sSearch_3=&bRegex_3=false&bSearchable_3=true&bSortable_3=true&mDataProp_4=4&sSearch_4=&bRegex_4=false&bSearchable_4=true&bSortable_4=true&mDataProp_5=5&sSearch_5=&bRegex_5=false&bSearchable_5=true&bSortable_5=true&mDataProp_6=6&sSearch_6=&bRegex_6=false&bSearchable_6=true&bSortable_6=true&mDataProp_7=7&sSearch_7=&bRegex_7=false&bSearchable_7=true&bSortable_7=true&mDataProp_8=8&sSearch_8=&bRegex_8=false&bSearchable_8=true&bSortable_8=true&mDataProp_9=9&sSearch_9=&bRegex_9=false&bSearchable_9=true&bSortable_9=true&mDataProp_10=10&sSearch_10=&bRegex_10=false&bSearchable_10=true&bSortable_10=true&mDataProp_11=11&sSearch_11=&bRegex_11=false&bSearchable_11=true&bSortable_11=true&mDataProp_12=12&sSearch_12=&bRegex_12=false&bSearchable_12=true&bSortable_12=true&mDataProp_13=13&sSearch_13=&bRegex_13=false&bSearchable_13=true&bSortable_13=true&mDataProp_14=14&sSearch_14=&bRegex_14=false&bSearchable_14=true&bSortable_14=true&mDataProp_15=15&sSearch_15=&bRegex_15=false&bSearchable_15=true&bSortable_15=true&mDataProp_16=16&sSearch_16=&bRegex_16=false&bSearchable_16=true&bSortable_16=true&sSearch=&bRegex=false&iSortCol_0=0&sSortDir_0=asc&iSortingCols=1&_=1619045214284
+URL: https://takeda-mig.dotmatics.net/browser/register/jsp/reagents/convert_sdf_to_zip.do
+"URL: https://www.e-medicalinfo.com/prescription_registration/complete
+URL: https://www.e-medicalinfo.com/prescription_registration/confirm"
+"URL: https://www.adhd-vcdcs.jp/manual
+URL: https://www.adhd-vcdcs.jp/wholesale/downloadTemplate
+URL: https://www.adhd-vcdcs.jp/top/view"
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/surveymanagement/surveys/study-details
+URL: https://www.alk.com.tw/APP_PROG/Admin/sys_search.aspx
+URL: https://www.alk.com.tw/APP_PROG/admin/Org_Search.aspx
+URL: https://api-us-np.takeda.com/dev/security-takedaid-api/v1/users
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/elnservlet?cn=experiment&ac=getExpComments&ajax=true
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/resource/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/createresource
+"URL: https://takeda-mig.dotmatics.net/browser/testmanager/main.jsp?id=*
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/studies.do?cn=protocolSummary&ac=getProtocolExpSummaryDisplay&ajax=true
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/studies.do?cn=protocolSummary&ac=getExperimentData&ajax=true"
+URL: https://us-east-1-prod-activity.platform.threadresearch.com/api/v1/activity/activities/export?filter=all
+"URL: https://prodalb-v2.platform.threadresearch.com/api/v2/studymanagement/users/[]
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/[]
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/participantmanagement/studies/participants/pagination"
+"URL: https://prodalb-v2.platform.threadresearch.com/api/v2/participantmanagement/studies/participants/[id]/userdefinedid
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/participantmanagement/studies/participants/[id]"
+URL: https://prodalb-v2.platform.threadresearch.com/
+"URL: https://us-east-1-prod-activity.platform.threadresearch.com/api/v1/activity/activities/e025c5a4-a001-4c9a-a5e4-74f20941ed32/questions
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/studies/00ee5f77-bca5-4572-b2e9-9b3763dcc587/appdescription
+URL: https://us-east-1-prod-activity.platform.threadresearch.com/api/v1/activity/activities/bd8c1742-7cc8-45b8-96bc-21cf61d95f62/questions/f9a7511b-eedb-4282-b8eb-242edd335b63"
+URL: https://takeda-test.invoicetrack.com/IVT/LoginHistory/UserHistoryLogins.mvc?id=148782&editMode=false&_=1695010189357
+URL: https://takeda-mig.dotmatics.net/browser/documentservlet
+URL: https://uat-api.biolifeplasma.com/appointments
+URL: https://uat-api.biolifeplasma.com/donors/profile?sfid=*
+URL: https://uat-api.biolifeplasma.com/donors/*/preferences
+URL: https://uat-api.biolifeplasma.com/donors/4418382/preferences
+URL: https://3.0.125.222:8443/tphkinc/api/api_monthlybreakdown.jsp
+URL: https://takeda-mig.dotmatics.net/browser/inventory/InventoryTips.do
+URL: https://geneticsopinions.org/Calls/UploadImage?FileName=<FILE NAME>&Description=<DESCRIPTION>&ChannelName=&GroupID=<GROUP ID>
+URL: https://geneticsopinions.org/Calls/PutQuestionaireResponseJSON
+URL: https://stage-v2.globalmedical.takeda.com/MedicalInformation/DownloadDocument/
+URL: https://pdt-dep-web-dev.herokuapp.com/scripts/bundle.e0297714e5d21ed21bec.js
+URL: https://edi.myf2f.pl/admin/report/adverse-reaction/preview/5
+"URL: https://edi.myf2f.pl/admin/personnel/getPostJson
+URL: https://edi.myf2f.pl/admin/personnel/add"
+URL: https://test-tms-revamp.pantheonsite.io/themes/custom/takeda/package.json
+URL: https://www-stg.mcm.em1lab.com/seminar/view/
+URL: https://sana-app.cz/OdberPage.aspx?0.9103735948002925
+"URL: https://www.alk.com.tw/(A(%22onerror=%22document.body.innerHTML=document.domain;alert%60synack%60%22))/App_Prog/Sample_template.aspx#GroupDSub4
+URL: https://www.alk.com.tw/(A(%22onerror=%22document.body.innerHTML=document.domain;alert%60synack%60%22))/App_Prog/Admin/User_Personal.aspx
+URL: https://www.alk.com.tw/(A(%22onerror=%22document.body.innerHTML=document.domain;alert%60synack%60%22))/App_Prog/Sample_addedit.aspx"
+URL: https://www.alk.com.tw/(Z(%22onerror=%22alert%60XSS%60%22))/login.aspx
+URL: https://takeda-test.invoicetrack.com/IdentityServer/account/ImpersonateSuccess?returnUri=<PAYLOAD>
+URL: https://takeda-test.invoicetrack.com/IdentityServer/account/ImpersonateSuccess?frontChannelLogoutUris=javascript:alert(document.domain)
+URL: https://sana-app.cz/Unsub.aspx
+URL: https://takeda-test.invoicetrack.com/IVT/#tabId=17&main=tasklist/index.mvc
+URL: https://iuat-donor.bpms.takeda.io/informationstext/*/*/
+URL: https://test-tms-revamp.pantheonsite.io/delfirst/confirms
+URL: https://test-tms-revamp.pantheonsite.io/medicine?searchStr=synack%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+URL: https://api-dev.shire.com/test/base64/PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
+URL: https://takeda-test.invoicetrack.com/IVT/masterdataservice/details.mvc?Type=test%27));},%20alert(origin));function%20$(){};({%2f%2f
+URL: https://scfull-onepath.cs198.force.com/apex/ediaryLogPdf?diseasestate=ALPHA-1&strdate=[XSS-PAYLOAD]&enddt=[XSS-PAYLOAD]
+URL: https://mosquito.mosquitoplazma.hu/
+"File: GlobalConfig-DEV.json
+File: GlobalConfig-TESTjson
+File: GlobalConfig-PROD.json"
+App Location: /res/values/strings.xml
+URL: https://www-stg.mcm.em1lab.com/updatefirst/form/confirm
+URL: https://edi.myf2f.pl/admin/report/prepare-report
+"URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/{{user-ID}}/change-email
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/clinic-admin"
+URL: https://dev6.takedapro.ca/api/TakedaIdActiveForgotPasswordBlock/Index
+URL: https://takeda-mig.dotmatics.net/browser/query/shoppingcart.jsp
+URL: https://scfull-onepath.cs198.force.com/s/streams
+"URL: https://geneticsopinions.org/Calls/SetCaseStatus?ChannelGUID=<GUID>&Status=<STATUS>
+URL: https://geneticsopinions.org/Calls/SetCaseOwnerShip?ChannelGUID=<GUID>
+URL: https://geneticsopinions.org/Calls/ClearCaseOwnerShip?ChannelGUID=<GUID>"
+URL: https://takeda-mig.dotmatics.net/browser/views/viewDelegate.jsp
+"URL: https://edi.myf2f.pl/admin/medicament-allocation/list
+URL: https://edi.myf2f.pl/admin/medicament-allocation/quality-complaint"
+URL: https://takeda-mig.dotmatics.net/browser/admin/formResult.jsp
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveann.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/clone.jsp
+URL: https://takeda-mig.dotmatics.net/browser/query/browseajaxtemp.jsp
+URL: https://takeda-mig.dotmatics.net/browser/views/tabular.jsp
+"URL: https://takeda-mig.dotmatics.net/browser/testmanager/groups.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/concentrationSchemeDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/reasonsDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/formatDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/namingSchemaDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/bloodFlowDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/workflowStatusDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/dmpkDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/elnservlet
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/ajaxStudiesServlet.do?servletManagerName=monitorGroupManager&ac=addMonitorGroupWithUsers
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/processingScriptDictionary.jsp
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/studies.do?cn=groupManager&ac=getGroupUsers&ajax=true
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/dictionaries.jsp"
+URL: https://www-stg.mcm.em1lab.com/movie/qrview/
+"IP: 172.31.71.13:3050 (TCP)
+IP: 172.31.79.13:3050 (TCP)
+IP: 172.31.119.13:3050 (TCP)"
+"IP: 172.31.95.13:3050 (TCP)
+IP: 172.31.39.13:3050 (TCP)
+IP: 172.31.55.13:3050 (TCP)
+IP: 172.31.111.13:3050 (TCP)
+IP: 172.31.87.13:3050 (TCP)"
+URL: https://edi.myf2f.pl/admin/pump-allocation/list
+URL: https://adhd-vcdcs.jp/unregistered_prescription/edit_confirm
+URL: https://www.e-medicalinfo.com/dispensing/edit_complete
+URL: https://takeda-test.invoicetrack.com/ContinualServiceImprovement/api/Dashboard/Manage
+"URL: https://takeda-test.invoicetrack.com/ContinualServiceImprovement/api/Tickets/ID
+URL: https://takeda-test.invoicetrack.com/ContinualServiceImprovement/api/Tickets/Edit"
+URL: https://live-accounts-takeda-pre.cms.takeda.com/AccountsForgotPassword/AccountsForgotPasswordPage/ForgotPassword
+URL: https://www.alk.com.tw
+URL: https://takeda-test.invoicetrack.com/Mobile/User/SaveUser
+"URL: https://takeda-test.invoicetrack.com/IVT/UserRoleAssignment/save.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/userroleassignment/index.mvc"
+"URL: https://auth-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/user
+URL: https://auth-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/user/46915
+URL: https://auth-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Ciam/User/Email/mzy4126"
+URL: https://uat-api.biolifeplasma.com/appointments/
+URL: https://test-tms-revamp.pantheonsite.io/ja/resource
+URL: https://iuat-donor.bpms.takeda.io/api/Termine/erstspenderterminabsagen
+URL: https://takeda-ps--scfull.my.salesforce.com/services/apexrest/v1/DataInsertUpdateDelete
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.2b82bdc4207789e6b894.js
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.4c58db8d0a40aa9104a8.js
+URL: https://scfull-onepath.cs198.force.com/chatter/handlers/file/body
+App Location: LAContext Class
+"URL: https://cn-val-myhae.mypkfit.cn/api/data/prophylaxis/ID
+URL: https://cn-val-myhae.mypkfit.cn/api/data/attack/ID"
+URL: https://stage-v2.globalmedical.takeda.com/Account/Register
+URL: https://stage-v2.globalmedical.takeda.com/Account/Register
+URL: https://stage-v2.globalmedical.takeda.com/MedicalInformation/Search
+URL: https://stage-v2.globalmedical.takeda.com/MedicalInformation/Search
+"URL: https://live-accounts-takeda-pre.cms.takeda.com/AccountsSelfRegistration/AccountsSelfRegistrationPage/SignUp
+URL: https://live-accounts-takeda-pre.cms.takeda.com/AccountsForgotPassword/AccountsForgotPasswordPage/ForgotPassword"
+App Location: smali/a/a/a/i/a/f/a.smali
+"File: resources.arsc
+File: /res/values/strings.xml"
+"URL: https://test-tms-revamp.pantheonsite.io/node/<id>
+URL: https://test-tms-revamp.pantheonsite.io/ja/node/<id>"
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.0a8879ad6dde21f31f45.js
+"URL: https://3.0.125.222:8443/tphkinc/model/incentiveBreakdown.json
+URL: https://3.0.125.222:8443/tphkinc/model/rules.json
+URL: https://3.0.125.222:8443/tphkinc/model/paylist.json
+URL: https://3.0.125.222:8443/tphkinc/model/incBdDetails.json
+URL: https://3.0.125.222:8443/tphkinc/model/customers.json
+URL: https://3.0.125.222:8443/tphkinc/model/alerts.json
+Other:  https://3.0.125.222:8443/tphkinc/model/*"
+URL: https://iuat-donor.bpms.takeda.io/api/Termine/neuspenderterminanlegen
+URL: https://iuat-donor.bpms.takeda.io/api/Authentication/registrieren
+URL: https://prod-takexperiences.vercel.app/_next/static/chunks/pages/_app-7387b718dc444e0d0b89.js
+"Other: myHypopara-9-28-2022.ipa
+Other: myHypopara/main.jsbundle
+App Location: com.shire.myhypopara-testing"
+"Other: myHypopara-9-28-2022.apk
+Other: com.shire.myHypoparaDiary/assets/index.android.bundle"
+"App Location: LAContext Class
+App Location: com.seqster.pen"
+"App Location: com.seqster.SeqsterApp.LoginActivity
+App Location: com.seqster.SeqsterApp.MainActivity"
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.b2a2434020318bad5192.js
+"App Location: com.seqster.health.pen
+App Location: com.seqster.SeqsterApp.ui.TouchIdHelper"
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/participantmanagement/studies/participants/send/notification?studyId=00ee5f77-bca5-4572-b2e9-9b3763dcc587&siteId=31c9c35d-d7bd-4e53-8202-ebf1a966db3
+"App Location: com.seqster.SeqsterApp.io.IoAdapter
+Other: com.seqster.health.pen"
+"URL: https://takeda-mig.dotmatics.net/browser/query/Image.do?file=tI-0af2ef7bd472
+URL: https://takeda-mig.dotmatics.net/browser/query/Image.do?file=tI-*"
+Other: Android -> Package (com.takeda.mybiolifeappeu) --> Activity (com.takeda.mybiolifeappeu.WebViewActivity)
+"URL: https://us-demo-hema.mypkfit.com/assets/
+URL: https://us-demo-hema.mypkfit.com/form/
+URL: https://us-demo-hema.mypkfit.com/documents/
+URL: https://us-demo-hema.mypkfit.com/configs/
+URL: https://us-demo-hema.mypkfit.com/src/
+URL: https://us-demo-hema.mypkfit.com/vendor/
+URL: https://us-demo-hema.mypkfit.com/icons/
+URL: https://us-demo-hema.mypkfit.com/media/
+URL: https://us-demo-hema.mypkfit.com/icons/README
+URL: https://us-demo-hema.mypkfit.com/assets/css/modal.css"
+"URL: https://package-repo.mypkfit.com/artifactory/*
+URL: https://docker-repo.mypkfit.com/artifactory/*"
+URL: https://edi.myf2f.pl/admin/patient/getPostJson
+"URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-assessments-3-1//assessments/clinic/ID/patient/ID/assessment/ID
+URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-advate-3-1/simulation/clinic/ID/patient/ID/assessment/ID/simulations
+URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-assessments-3-1//assessments/clinic/ID/patient/ID/assessment/ID/prior/assessments
+URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-assessments-3-1/samples/clinic/ID/patient/ID/assessment/ID/samples"
+"URL: https://prodalb-v2.platform.threadresearch.com/api/v2/studymanagement/users
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/studymanagement/users"
+URL: https://geneticsopinions.org/Calls/PutQuestionaireResponseJSON?Questionaire=Birth_History&ChannelID=4d34af43-10a2-4516-9f21-507e0159cfd6
+URL: https://takeda-test.invoicetrack.com/IVT/Tasklist/DeleteProfile.mvc
+URL: https://edi.myf2f.pl/admin/chat/get-chat-for-user
+URL: https://us-east-1-prod-activity.platform.threadresearch.com/api/v1/activity/activities/pagination?filter=%7B%22status%22%3A%22Published%22%7D&pageNum=0&pageSize=20&sortOrder=DESC&sortValue=modified_time
+"URL: https://edi.myf2f.pl/admin/adverse-reactions/step/9/4/315
+URL: https://edi.myf2f.pl/admin/adverse-reactions/step"
+URL: https://edi.myf2f.pl/admin/report/show-report/<ID>
+URL: https://pen.research.uat.seqster.com/research/profile/info/[userID]
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveCART.jsp
+URL: https://takeda-mig.dotmatics.net/browser/admin/savePopup.jsp
+URL: https://takeda-mig.dotmatics.net/browser/admin/newtype.jsp
+URL: https://takeda-mig.dotmatics.net/browser/admin/manageScreenSizes.jsp
+URL: https://takeda-mig.dotmatics.net/browser/admin/dataSourceMetrics.jsp
+URL: https://api-dev.shire.com/test/cookies
+"URL: https://www-stg.mcm.em1lab.com/sp/accept/
+URL: https://www-stg.mcm.em1lab.com/accept/"
+URL: https://www-stg.mcm.em1lab.com/qsaccess.jsp
+URL: https://takeda-test.invoicetrack.com/Mobile/LogOn/StartLogin?returnUrl=//google.com/
+"URL: https://3.0.125.222:8443/tphkinc/api/api_sysparam.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_incrule.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_salestargetdetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_hksales.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_kpi.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_newGovACDetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_monthlycalc.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_salesadj.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_newac.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/*"
+"URL: https://uat-api.biolifeplasma.com/donors/<User_ID>/profile
+Other: PUT METHOD
+Other: https://uat-api.biolifeplasma.com/donors/<User_ID>/profile
+Other: GET METHOD"
+URL: https://edi.myf2f.pl/admin/medicament-allocation/add
+URL: https://edi.myf2f.pl/admin/patient/current/saveTreatmentParam
+URL: https://edi.myf2f.pl/admin/calendar/editPost
+URL: https://edi.myf2f.pl/admin/report/list
+URL: https://scfull-onepath.cs198.force.com/s/settings/home
+URL: https://mosquito.mosquitoplazma.hu/vpc-md-qbox-form.html
+URL: https://mosquito.mosquitoplazma.hu/vpc-res-reservation-form.html?ajax=false&id=23542&_=1618837588763
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura?r=4&aura.Component.reportFailedAction=2&other.OP_SiteOfCare.updatePharmacy=1
+URL: https://scfull-onepath.cs198.force.com/report
+"URL: https://scfull-onepath.cs198.force.com/s/patient-information
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura"
+App Location: Ediary Note Areas
+App Location: prodalb-v2.platform.threadresearch.com/api/v2/studymanagement/users/
+URL: https://uat-api.takedaconnect.com/OneTrust
+URL: https://edq-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/Edq/authorize
+"URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-patients-3-1/patients
+URL: https://us-dev3-hema.mypkfit.com/pkc-calculator/rest/pkc-assessments-3-1//assessments/clinic/245/patient/235502469/assessment"
+URL: https://uat-api.takedaconnect.com/library
+"URL: https://aggregators-api-disx-test.apps.dondev.pdt.onetakeda.com/swagger/index.html
+URL: https://auth-api-disx-test.apps.dondev.pdt.onetakeda.com/swagger/index.html
+URL: https://centerops-api-disx-test.apps.dondev.pdt.onetakeda.com/swagger/index.html
+URL: https://donor-api-disx-test.apps.dondev.pdt.onetakeda.com/swagger/index.html
+URL: https://edq-api-disx-test.apps.dondev.pdt.onetakeda.com/swagger/index.html"
+URL: https://uat-api.takedaconnect.com/library
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-users-3-2/companies/
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-clinics-3-1/clinics
+URL: https://uat-api.takedaconnect.com/materialOrder
+URL: https://uat-api.takedaconnect.com/materialOrder
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/company-admin
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/user/1633
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-users-3-2/profile/id/1
+"URL: https://takeda-test.invoicetrack.com/Mobile/Mobile/GetTask
+URL: https://takeda-test.invoicetrack.com/Mobile/Mobile/GetTaskNotes"
+"URL: https://test-tms-revamp.pantheonsite.io/HCP/Certification
+URL: https://test-tms-revamp.pantheonsite.io/ja/updatefirst/form/"
+"URL: https://dev6.takedapro.ca/registration-page/
+URL: https://dev6.takedapro.ca/EPiServer.Forms/TakedaIdActiveRegistrationSubmit/Submit"
+URL: https://us-dev3-patient-app.mypkfit.com/pkc/rest/pkc-messaging-1-0/messaging/login/ID
+URL: https://takeda-mig.dotmatics.net/browser/gateway/saveentry.jsp
+"URL: https://takeda-mig.dotmatics.net/browser/custom/listManager.jsp
+URL: https://takeda-mig.dotmatics.net/browser/custom/listManager.jsp?action=deletelist&list=58453
+URL: https://takeda-mig.dotmatics.net/browser/custom/listManager.jsp
+URL: https://takeda-mig.dotmatics.net/browser/query/listviews.jsp?action=deletefolder&list=userown-1000003&primary="
+"URL: https://prodalb-v2.platform.threadresearch.com/api/v1/participantmanagement/studies/participants/customlabel/<id>?studyId=<id>
+URL: https://prodalb-v2.platform.threadresearch.com/api/v1/participantmanagement/studies/participants/customlabels?studyId=<id>"
+URL: https://takeda-test.invoicetrack.com/IVT/UserInformation/Index.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/Error/GetErrorMessage.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/TaskViewsV3/InvoiceView2.aspx?AID=80696968&_wid=5104718868&_et=btnSave&_ts=1695106223012&__currentFocusedFieldName=BASIC_AMOUNT
+URL: https://us-dev3-patient-app.mypkfit.com/pkc/rest/pkc-users-3-2/profile/messaging-enabled/clinic/ID/patient/ID
+URL: https://bxltqa.biolifeplasma.com/scripts/bundle.2b82bdc4207789e6b894.js
+URL: https://geneticsopinions.org/User/*
+URL: https://edi.myf2f.pl/admin/pump/add
+"URL: https://takeda-test.invoicetrack.com/IVT/SubstitutionManagement/DetailsSubstitutions.mvc
+URL: https://takeda-test.invoicetrack.com/IVT/Substitutes/ShowHistory.mvc"
+URL: https://geneticsopinions.org/Calls/GetSetLicense
+"URL: https://api.takeda2go-test.migxh.ch/myteam/requestcall
+URL: https://api.takeda2go-test.migxh.ch/reportAdverseEvent/sendRequest"
+URL: https://takeda-test.invoicetrack.com/IVT/MailQueueManagement/DetailsMailQueue.mvc
+URL: https://takeda-mig.dotmatics.net/browser/custom/listManager.jsp?currentFormID=1&logicQuery=false&currentProjectID=1&currentQueryID=58563&rerun=true
+URL: https://takeda-test.invoicetrack.com/IVT/usermanagement/list.mvc
+URL: https://lns-pdt--sitc.sandbox.lightning.force.com/chatter/handlers/chatterfile
+URL: https://api.test.medable.com/pentest/v2/c_studies/5dcab976472d50010049cf2a
+URL: https://3.0.125.222:8443/tphkinc/api/api_newGovACDetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_salesadj.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_manualIncPaid.jsp
+"URL: https://3.0.125.222:8443/tphkinc/api/api_hksalesdetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_incruledetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_incrule.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_macausalesdetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_macausales.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_monthlycalc.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_payoutrateHYByGrade.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_payoutrate.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_payoutrateMonthly.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_payoutrateOAByGrade.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_salesadj.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_salestarget.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/api_salestargetdetail.jsp
+URL: https://3.0.125.222:8443/tphkinc/api/*"
+"URL: https://uat-api.biolifeplasma.com/centers/potentialdonors/download
+URL: https://uat-api.biolifeplasma.com/centers/appointments/download"
+URL: https://uat-api.biolifeplasma.com/donors/*/preferences
+URL: https://uat-api.biolifeplasma.com/donors/*/profile
+"URL: https://sbsjpn-test.mendixcloud.com/xas/
+Other: com.takeda.sbsjapan
+Other: action: retrieve_by_ids"
+"URL: https://sbsjpn-test.mendixcloud.com/xas/
+Other: com.takeda.sbsjapan"
+URL: https://takeda-mig.dotmatics.net/browser/testmanager/experiment.jsp
+"URL: https://sbsjpn-test.mendixcloud.com/xas/
+Other: PackageName: com.takeda.sbsjapan"
+URL: https://scfull-onepath.cs198.force.com/s/insurance-information
+"URL: https://scfull-onepath.cs198.force.com/*
+URL: https://scfull-onepath.cs198.force.com/_ui/common/setup/PersonalSetupServlet"
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura
+"URL: https://scfull-onepath.cs198.force.com/chatter/handlers/file/body
+URL: https://scfull-onepath.cs198.force.com/sfc/servlet.shepherd/document/download/06905000000RcIbAAK?operationContext=S1"
+"URL: https://scfull-onepath.cs198.force.com/aura
+URL: https://scfull-onepath.cs198.force.com/sfsites/aura
+URL: https://scfull-onepath.cs198.force.com/s/sfsites/aura"
+URL: https://3.0.125.222:8443/tphkinc/api/api_salestargetdetail.jsp
+URL: https://cn-val-myhae.mypkfit.cn/api/uaa/resetPassword/set
+URL: https://takeda.platform.threadresearch.com/#/studies/<ID>/resource-list-site
+URL: https://takeda-mig.dotmatics.net/browser/gateway/upload.jsp
+URL: https://takeda-test.invoicetrack.com/ContinualServiceImprovement/api/Tickets/Edit
+URL: https://takeda.platform.threadresearch.com/#/users
+URL: https://uat-api.takedaconnect.com/OneTrust/AddNewEmail
+App Location: Login pin 
+"File: SeqsterApp-pen-debug.apk
+File: com.seqster.SeqsterApp.BuildConfig
+File: Seqster Pen.ipa
+File: Seqster Pen/Info.plist
+URL: https://pen.uat.seqster.com/api/integrator/token"
+URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-assessments-3-1//assessments/clinic/<clinic ID>/patient/<patient ID>/assessment
+URL: https://us-demo-hema.mypkfit.com/pkc-calculator/rest/pkc-patients-3-1/patients
+"URL: https://stage-v2.globalmedical.takeda.com/Contact/RequestFieldMedicalVisitForm
+URL: https://stage-v2.globalmedical.takeda.com/Contact/MedicalInformationRequestForm"
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/company-admin
+File: AndroidManifiest.xml
+URL: https://auth-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/User
+URL: https://edi.myf2f.pl/admin/personnel/add
+"URL: https://edi.myf2f.pl/admin/pump/getPostJson
+URL: https://edi.myf2f.pl/admin/pump/add"
+"App Location: BiometricPrompt Class
+App Location: com.shire.mypkfit"
+Other: com.takeda.foryouwithyou.at/com.takeda.foryouwithyou.ui.home.HomeActivity
+App Location: android login screen
+URL: https://api.takeda2go-test.migxh.ch/myteam/requestcall
+"URL: https://takeda-mig.dotmatics.net/browser/admin/deleteProject.jsp?id=5000
+URL: https://takeda-mig.dotmatics.net/browser/admin/deleteProjType.jsp?id=17
+URL: https://takeda-mig.dotmatics.net/browser/admin/savePopup.jsp?action=delete&type=CLONE_VIEW
+URL: https://takeda-mig.dotmatics.net/browser/admin/tablebrowser/TableBrowserManager.jsp?action=delete&id=GATEWAY
+URL: https://takeda-mig.dotmatics.net/browser/admin/manageViews.jsp?action=delete&ID=2
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveann.jsp?OPTION=asd&action=delete
+URL: https://takeda-mig.dotmatics.net/browser/admin/savetools.jsp?tool=TABULAR_INC_ITEMS&inc=N
+URL: https://takeda-mig.dotmatics.net/browser/admin/manageScreenSizes.jsp?action=delete&screenSizeId=5
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveicons.jsp?action=delete&id=9
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveicons.jsp?action=delete&id=8
+URL: https://takeda-mig.dotmatics.net/browser/admin/saveicons.jsp?action=delete&id=*"
+URL: https://geneticsopinions.org/Calls/PutQuestionaireResponseJSON
+URL: https://us-dev3-patient-app.mypkfit.com/pkc/rest/pkc-pdf-1-1/export
+URL: https://geneticsopinions.org/Calls/UploadImage
+URL: https://edi.myf2f.pl/admin/patient/deleteSickness/354/sicknessID
+URL: https://sana-app.cz/OdberPage.aspx?0.12981507973550732
+"URL: https://edi.myf2f.pl/admin/patient/deleteResearch/342/59
+URL: https://edi.myf2f.pl/admin/patient/deleteMedicament/342/9"
+URL: https://edi.myf2f.pl/admin/knowledge/delete/<id>
+"Other: ""adb logcat""
+App Location: class HttpLoggingInterceptor"
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/<ID>/reset-password-mail
+"URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/clinic-admin
+URL: https://us-demo-hema.mypkfit.com/pkc/rest/pkc-clinics-3-1/clinics"
+URL: https://geneticsopinions.org/Calls/SendCustomEmail
+"App Location: LAContext
+App Location: LAContext - evaluatePolicy:localizedReason"
+"App Location: LAContext - evaluatePolicy:localizedReason
+App Location: LAContext"
+URL: https://takeda.platform.threadresearch.com/#/
+URL: https://auth-api-disx-test.apps.dondev.pdt.onetakeda.com/api/v1/auth/validate/pin
+URL: https://prodalb-v2.platform.threadresearch.com
+"URL: https://geneticsopinions.orgCalls/UploadImage?FileName=csrf.txt&Description=xxx&ChannelName=&GroupID=a7f53d3d-37f0-4e4e-bee6-0f2b094afbbf
+URL: https://geneticsopinions.org/Calls/DownloadFile?GroupID=a7f53d3d-37f0-4e4e-bee6-0f2b094afbbf&FileID=3652bab1-5a08-4905-b4ef-d86c4887b0bb"
+URL: https://geneticsopinions.org/Calls/SetCaseOwnerShip?ChannelGUID=<<ChannelGUID>>
+"App Location: com.shire.MyPKFiT.Patient
+App Location: LAContext Class
+App Location: myPKFiT.ipa"
+App Location: com.seqster.SeqsterApp.ui.SplashScreen
+File: AndroidManifest.xml
+Other: "adb logcat"
+"Other: PackageName:   com.takeda.sbsjapan
+App Location: AndroidManifest ---------> (Activity)  com.mendix.nativetemplate.MainActivity"
+"Other: PackageName: com.takeda.mybiolifeappeu
+Other: AndroidManifest.xml -----> (Activity) : com.takeda.mybiolifeappeu.WebViewActivity"
+"File: AndroidManifest.xml
+App Location: com.outsystemsenterprise.tpui2uat.ibd.MainActivity"
+"App Location: [package] com.shire.mypkfit --> AndroidManifest.xml
+File: AndroidManifest.xml --> (activity) ccom.shire.mypkfit.MainActivity"
+URL: https://takeda-test.invoicetrack.com/IVT/captureRule/save.mvc
+URL: https://www-stg.mcm.em1lab.com/mcm/common/auto_device.jsp
+"URL: https://us-dev3-hema.mypkfit.com/pkc/#/clinic/1828?edit=false
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-clinics-3-1/clinics"
+URL: https://us-dev3-hema.mypkfit.com/pkc/rest/pkc-users-3-2/users/clinic-admin
+"URL: https://geneticsopinions.org/Calls/RegistrationRevoke?RequestGUID=[]
+URL: https://geneticsopinions.org/Calls/RegistrationAccept?RequestGUID=[]
+URL: https://geneticsopinions.org/Calls/SendChannelMessage?ChannelID=[]
+URL: https://geneticsopinions.org/Calls/SetOpinion?ChannelGUID=
+URL: https://geneticsopinions.org/Calls/SetCaseStatus?ChannelGUID=
+URL: https://geneticsopinions.org/Calls/SendReminderEmail?EmailAddress=
+URL: https://geneticsopinions.org/User/SubmitFeedBack
+URL: https://geneticsopinions.org/User/ProcessCaseNewV3WithGuid?NewCaseGUID=[]"
+"File: [package] com.shire.myHypoparaDiary --> AndroidManifest.xml
+File: AndroidManifest.xml -->(Activity)  com.shire.myHypoparaDiary.MainActivity"
+Other: Android App
+"File: BioLife_Jan132023.apk
+App Location: com.rnfingerprint.FingerprintAuthModule
+App Location: com.rnfingerprint.FingerprintHandler
+Other: com.shire.biolife"
+"App Location: LAContext Class
+App Location: com.shire.myhypopara-testing
+File: myHypopara-9-28-2022.ipa"
+"Other: com.shire.myHypoparaDiary
+App Location: com.rnfingerprint.FingerprintHandler
+File: myHypopara-9-28-2022.apk"
+"App Location: LAContext Class
+App Location: 0000000100d910d0 --> /System/Library/Frameworks/LocalAuthentication.framework/LocalAuthentication
+App Location: 000000010084aa60  --> evaluatePolicy:localizedReason:reply
+Other: com.shire.biolife
+File: Biolife_Jan122023.ipa"
+"Other: PackageName: com.takeda.ibdone
+Other: AndroidManifest.xml -----> (Activity) : com.mendix.nativetemplate.MainActivity"
+"File: Package(com.takeda.HCPConnect) -> AndroidManifest.xml
+App Location: Activity -> com.takeda.HCPConnect.MainActivity"

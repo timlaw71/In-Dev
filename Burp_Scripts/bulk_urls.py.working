@@ -1,0 +1,21 @@
+import requests
+
+# Burp Proxy Configuration
+proxies = {
+    "http": "http://127.0.0.1:8080",  # Replace with your Burp proxy address
+    "https": "http://127.0.0.1:8080"
+}
+
+# Read the list of URLs
+with open("urls.txt", "r") as file:
+    urls = file.readlines()
+
+# Send each URL through Burp
+for url in urls:
+    url = url.strip()
+    try:
+        response = requests.get(url, proxies=proxies, verify=False)
+        print(f"Visited {url} - Status Code: {response.status_code}")
+    except Exception as e:
+        print(f"Error visiting {url}: {e}")
+
